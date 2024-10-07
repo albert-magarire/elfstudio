@@ -245,7 +245,7 @@ class ELFStudioGUI(QMainWindow):
         
         layout.setContentsMargins(0, 0, 0, 0)
         layout.setSpacing(0)
-        
+        #comments were supposed to be added here
         widget.setLayout(layout)
         
         return widget
